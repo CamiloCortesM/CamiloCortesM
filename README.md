@@ -9,4 +9,4 @@ i am a student of systems and computer engineering at the university of pelagic 
 
 ![CamiloCortes github stats](https://github-readme-stats.vercel.app/api?username=CamiloCortesM&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCortesM&layout=compacte&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCortesM&layout=compacte&theme=cobalt&exclude_repo=-Fast-and-furious)](https://github.com/anuraghazra/github-readme-stats)
