@@ -16,9 +16,9 @@
 
 ## Stats
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CamiloCortesM&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 50%,float:left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CamiloCortesM&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 40%,float:left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCortesM&hide_border=true&layout=compact&exclude_repo=-Fast-and-furious&theme=tokyonight" align="center" style="width: 50%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCortesM&hide_border=true&layout=compact&exclude_repo=-Fast-and-furious&theme=tokyonight" align="center" style="width: 40%" />  
  </div>  
 
 <br/>  
