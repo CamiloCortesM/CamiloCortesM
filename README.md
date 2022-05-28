@@ -21,8 +21,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCortesM&hide_border=true&layout=compact&exclude_repo=-Fast-and-furious&theme=tokyonight" align="center" style="width: 40%" />  
  </div>  
 
-<br/>  
+<br/> 
 
+## Skills 
+
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,js,nextjs,nodejs,py,react,tailwind,ts,mysql" />
+  </a>
+</p>
+</div>  
+  
 
 ## Connect with me  
 <div align="center">
