@@ -31,7 +31,10 @@
     <img src="https://skillicons.dev/icons?i=git,css,html,js,ts,bootstrap,mongodb,redux,firebase,github,nextjs,nodejs,py,react,tailwind,mysql,vite,materialui,java,php,jquery,python" />
   </a>
 </p>
-</div>  
+</div>
+
+## Skills 
+[![@camilocortesm's Holopin board](https://holopin.me/camilocortesm)](https://holopin.io/@camilocortesm)
   
 
 ## Connect with me  
