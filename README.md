@@ -33,7 +33,7 @@
 </p>
 </div>
 
-## Skills 
+## Badges
 [![@camilocortesm's Holopin board](https://holopin.me/camilocortesm)](https://holopin.io/@camilocortesm)
   
 
