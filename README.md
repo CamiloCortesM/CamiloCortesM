@@ -18,7 +18,7 @@ I'm **Camilo Cortes**, a **systems and computer engineer** passionate about **fu
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,ts,mongodb,nextjs,nodejs,react,tailwind,mysql,postgresql,java,spring,astro,nest,graphql,aws" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,ts,mongodb,nextjs,nodejs,nest,graphql,aws,docker,react,tailwind,mysql,postgresql,java,spring,astro" />
   </a>
 </p>
 </div>
