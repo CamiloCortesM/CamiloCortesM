@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Camilo Cortes**, a **systems and computer engineer** passionate about **full-stack development**. I specialize in technologies like **Node.js, Java, React.js, and Next.js**. When I'm not coding, I enjoy diving into **video games**, learning new **languages**, staying active with **exercise**, and getting lost in a good **book**. Currently, I'm honing my skills in **Astro.js**🚀 and **NestJS** 🐱.
+I'm Camilo Cortes, a systems and computer engineer passionate about full-stack development. I specialize in technologies like Node.js, NestJS🐱, Java, React.js, and Next.js. When I'm not coding, I enjoy diving into video games, learning new languages, staying active with exercise, and getting lost in a good book. Currently, I'm improving my skills in AWS☁️ and Docker🐳.
 
 
 
